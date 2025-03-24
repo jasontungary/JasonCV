@@ -319,3 +319,14 @@ padding: auto;
 background-color: antiquewhite;
 color: black;
 }
+
+  .navbar {
+            background-color: #2d3748;
+            color: white;
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .navbar-brand {
+            color: #3b82f6; 
