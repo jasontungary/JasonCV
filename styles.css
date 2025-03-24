@@ -291,3 +291,10 @@ footer {
 }
 
 
+.cta-button {
+    background: #e67e22;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
