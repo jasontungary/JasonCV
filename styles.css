@@ -14,7 +14,7 @@ body {
     color: #333;
 }
 
-/* Header styles */
+
 header
  {
     background: #333;
@@ -306,4 +306,16 @@ padding: auto;
     text-decoration: auto;
 
 
+}
+#sMenu
+{
+    color: antiquewhite;
+    padding: 6px;
+    transition: 0.2s ease-in-out; 
+}
+
+#sMenu:hover
+{
+background-color: antiquewhite;
+color: black;
 }
