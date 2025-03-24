@@ -286,10 +286,9 @@ footer {
     display: flex; 
     justify-content: center; 
     align-items: center; 
-   
-  
 }
-#mainmenu
+  
+    #mainmenu
 {
 text-align: center;
 border : solid 2px pink;
