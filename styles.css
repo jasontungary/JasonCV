@@ -290,10 +290,6 @@ footer {
   
 }
 
-
-css
-Run
-Copy code
 .cta-button {
     display: inline-block;
     background: linear-gradient(90deg, #e67e22, #d35400);
@@ -303,7 +299,7 @@ Copy code
     border-radius: 50px;
     font-size: 1.2em;
     font-weight: bold;
-    transition: background 0.3s, transform 0.3s;
+    transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
