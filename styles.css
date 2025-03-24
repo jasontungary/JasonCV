@@ -290,21 +290,20 @@ footer {
   
 }
 
-.cta-button {
-    display: inline-block;
-    background: linear-gradient(90deg, #e67e22, #d35400);
-    color: #fff;
-    padding: 15px 30px;
-    text-decoration: none;
-    border-radius: 50px;
-    font-size: 1.2em;
-    font-weight: bold;
-    transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+#mainmenu
+{
+text-align: center;
+border : solid 2px pink;
+border-radius : 2px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+padding: auto;
 }
+#mainmenu {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(0, 3, 3);
+    text-decoration: auto;
 
-.cta-button:hover {
-    background: linear-gradient(90deg, #d35400, #e67e22);
-    transform: scale(1.1); /* Scale the button to 110% of its original size */
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+
 }
