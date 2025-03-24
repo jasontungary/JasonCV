@@ -319,7 +319,11 @@ padding: auto;
 background-color: antiquewhite;
 color: black;
 }
-
+  body {
+            background-color: #e5e7eb; /* Tailwind's bg-gray-200 */
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
 .navbar {
             background-color: #2d3748; /* Tailwind's bg-gray-800 */
             color: white;
