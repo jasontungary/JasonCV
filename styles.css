@@ -289,6 +289,36 @@ footer {
    
   
 }
+#mainmenu
+{
+text-align: center;
+border : solid 2px pink;
+border-radius : 2px;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+padding: auto;
+}
+#mainmenu {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(0, 3, 3);
+    text-decoration: auto;
+
+
+}
+#sMenu
+{
+    color: antiquewhite;
+    padding: 6px;
+    transition: 0.2s ease-in-out; 
+}
+
+#sMenu:hover
+{
+background-color: antiquewhite;
+color: black;
+}
+
 
 
 .navbar {
