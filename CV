@@ -1,0 +1,121 @@
+ <!DOCTYPE html>
+ <html>
+    <head>
+        <meta charset="utf-8">
+        <title>CV about Jason</title>
+        <link rel= "stylesheet" href ="style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz@8..144&display=swap" rel="stylesheet">
+        
+    </head>
+    <body>
+        <div id="mainmenu"> 
+            <a id="sMenu" href="">Home</a> 
+            <a id="sMenu" href="">Project</a> 
+            <a id="sMenu" href="">Achievement</a>
+            <a id="sMenu" href="">Cv</a>  
+        </div>
+        <table>
+            <tr>
+                <td id="sisikiri">
+
+ </div>
+
+<div id="pp">
+    <img src="../bbai_gemoy_prawbobo.jpg" width="150px" alt="fotopp"></div>
+ <hr>
+ <h3>Data Pribadi </h3>
+ <p id="Infodata">
+    <b> Tempat tanggal lahir </b> <br>
+    Nigeria, 9 November 2001 <br>
+    <b> Jenis kelamin </b><br>
+    Attack helicopter<br>
+    <b> Agama </b><br>
+    Yahudi<br>
+    <b> Kewarganegaraan </b><br>
+    Bekasi<br>
+
+ <h3>Contact</h3>
+ <p id="Infodata">
+    <b> Hp :  0821-3927-7257 </b> <br>
+        Email : agusbuntung@gmail.com <br>
+        Alamat : Jl. Gatot Subroto No.1, RT.1/RW.3, Senayan, Kecamatan Tanah Abang, <br> Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10270 <br>
+
+
+
+ </p>
+ <h3>Skill</h3>
+ <div id="Infodata">
+    <b>Membunuh</b> <br>
+    <div id="mainbar:rgb(220, 220, 220); width:200px">
+        <div id="gaugebar" style="background-color:yellow; width:180px;"> ‎ </div>
+        </div>
+    <b>Kebal api </b><br>
+     <div id="mainbar:rgb(220, 220, 220) w3-round; width:200px" >
+        <div id="gaugebar" style ="background-color:blue; width:110px;">‎ </div>
+        </div>
+    <b>Korupsi </b> <br>
+     <div id ="mainbar:rgb(220, 220, 220); width:200px">
+        <div id ="gaugebar" style="background-color:pink; width:150px;">‎ </div>
+        </div>
+    <b>Yapping </b><br>
+     <div id="mainbar:rgb(220, 220, 220); width:200px">
+        <div id="gaugebar" style="background-color:grey; width:100px;"> ‎ </div>
+        </div>
+   
+ </div>
+ <h3> Social media </h3>
+ <p id="Infodata">
+    <b>Instagram : @Kominfo <b/> <br>
+    <b>Tiktok : @Kominfo </b><br>
+    <b>Youtube : Kominfo official</b><br>
+    <b>Darkweb : @kominfo</b> <br>
+
+ </p>
+</td>
+
+    <td id="sisikanan" style="Vertical-align:top;">
+    <div id="maintitle"> <h2> Jason T 12 A </h2></div>
+<hr>
+<h3>Profil</h3>
+<div id="Infodata"> GAS TERUS GAPAKE REM
+</div>
+
+<h3>Pendidikan</h3>
+<div id="Infodata">
+    <ul>
+        <li> 2100 - 2104 TK TADIKA MESRA</li>
+         <li> 2104 - 2109 SD Tamasya</li>
+          <li> 2113 - 2116 SMP IPH SCHOOLS</li>
+           <li> 2116 - 2119 SMA IPH SCHOOLS</li>
+            <li> 2119 - 2122 HAVARD UNIVERSITY</li>
+    </ul>
+
+</div>
+
+<h3>Riwayat pekerjaan</h3>
+<div id="Infodata">
+   <Ul> <li> Internship di Excelso </li>
+   </Ul>
+
+</div>
+
+<h3>Pencapaian</h3>
+<div id="Infodata"> 
+   <ul>
+    <li> Most forgiving student </li>
+   <li> HSK 3 </li>
+    <li>HSK 4  </li>
+    <li>Badminton Sparing vs XZ </li>
+    <li> MLBB CHampionship 2021-2023  </li>
+   </ul>
+</div>
+                </td>
+            </tr>
+        </table>
+
+    </body>
+
+
+    </html>
